@@ -1,4 +1,3 @@
-//Please review
 //case1
 var nums = []
 var a = [3, 0, 1]
